@@ -6,3 +6,4 @@ It works in place from the command line:
 
 As the name inplies, it works with ASCII text. I'm not really sure if it also works with UTF-8 or UTF-16 but I have been using it for awhile and have never had any problems. I didn't really pay attention to the encoding. Your mileage may vary.
 
+It does require the utility programs zip and unzip to be installed and available.
