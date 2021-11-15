@@ -1,0 +1,4 @@
+#!/bin/sh
+
+for file in *; do zip -qr foo.zip "$file" && unzip -aqo foo.zip && rm foo.zip ; done
+
